@@ -6,3 +6,5 @@ We compile and run the file using the following code:
 `java -jar hello.jar`
 
 --------------------
+# Part2: Variables
+In this second part, we create a variables.kt file that contains mutable and imutable variables. Inside the main function and top level variables outside the main, that are good for defining functions inside the class (initialize the class variables)
